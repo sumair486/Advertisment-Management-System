@@ -1,0 +1,1664 @@
+[2023-06-07 04:54:15] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:54:15] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:55:09] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:55:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:56:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:56:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:57:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:57:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:58:09] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:58:09] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 04:59:56] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:00:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:00:13] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:01:09] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:01:09] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:02:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:02:09] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:03:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:03:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:04:09] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:04:09] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:05:09] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:05:09] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:06:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:06:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:07:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:07:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:08:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:08:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:09:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:09:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:10:08] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 05:10:08] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:07:05] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:07:05] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:08:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:08:04] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:09:04] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:09:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:10:02] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:10:02] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:11:02] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:11:02] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:12:02] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:12:02] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:13:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:13:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:14:02] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:14:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:15:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:15:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:16:06] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:16:07] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:17:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 07:17:05] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:10:34] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+rror(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:11:13] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:11:14] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:12:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:12:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:13:11] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:13:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:14:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:14:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:15:11] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:15:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:16:14] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:16:14] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:17:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:17:11] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:18:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:18:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:19:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:19:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:20:11] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:20:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:21:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:21:11] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:22:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:22:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:23:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:23:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:24:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:24:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:25:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:25:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:26:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:26:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:27:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:27:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:28:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:28:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:29:10] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 16:29:10] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:05:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:05:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:06:00] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:06:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:06:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:06:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:07:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:08:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:09:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:09:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:10:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:10:00] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:11:00] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:11:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:11:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:11:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:12:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:12:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:13:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:13:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:14:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:14:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:15:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:16:00] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:16:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:16:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:17:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:17:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:18:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:18:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:19:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:19:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:20:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:21:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:21:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:22:00] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:22:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:22:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:23:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:23:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:24:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:24:59] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:25:59] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:26:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:27:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:27:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:28:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:28:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:29:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:29:02] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:30:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:30:02] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:31:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:31:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:32:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:32:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:33:01] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+rror(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:34:00] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:34:01] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:35:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:35:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:36:04] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:36:04] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:37:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:37:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:38:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:38:03] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:39:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:39:04] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:40:03] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2023-06-07 18:40:04] local.ERROR: Cannot redeclare media_url() (previously declared in C:\xampp\htdocs\themeqx-classifieds-v.5.0\app\helpers.php:17) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare media_url() (previously declared in C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:17) at C:\\xampp\\htdocs\\themeqx-classifieds-v.5.0\\app\\helpers.php:42)
+[stacktrace]
+#0 {main}
+"} 
